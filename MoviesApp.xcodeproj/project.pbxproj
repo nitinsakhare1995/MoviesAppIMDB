@@ -152,6 +152,7 @@
 				1800FD77299B69DB0001C37F /* Resources */,
 				1800FD71299B68F60001C37F /* NetworkProvider */,
 				1800FD74299B69940001C37F /* Utils */,
+				1800FD4F299B66D50001C37F /* Info.plist */,
 			);
 			path = MoviesApp;
 			sourceTree = "<group>";
@@ -195,7 +196,6 @@
 		1800FD77299B69DB0001C37F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1800FD4F299B66D50001C37F /* Info.plist */,
 				1800FD4A299B66D50001C37F /* Assets.xcassets */,
 				1800FD7D299B6A720001C37F /* Observer */,
 				1800FD78299B69F70001C37F /* JSON */,
